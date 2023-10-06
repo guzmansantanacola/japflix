@@ -1,0 +1,51 @@
+.img-card-fit {
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+
+.img-cont {
+    height: 200px;
+    overflow: hidden;
+    background-color: beige;
+}
+
+.card-content{
+    height: 150px;
+    overflow: auto;
+}
+
+main {
+    min-height: calc(100vh - 100px);
+  }
+
+.checked{
+    color: orange;
+}
+
+.offcanvas-top{
+    height: fit-content;
+}
+
+#cabecera{
+    background-color: white;
+    color: black;
+}
+
+
+.list-group{
+    background-color: #212529;
+    color:white ;
+    justify-content: center;
+}
+
+.list-group p{
+    color: grey;
+    font-size: 15px;
+    font-style: oblique;
+}
+
+
+.estrellas{
+    font-size: 20px;
+}
